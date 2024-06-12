@@ -12,7 +12,6 @@ Clone the Repository:
 ##  bash
 Copy code
 git clone https://github.com/AryaALG11/instagram-reach-analysis.git
-cd instagram-reach-analysis
 Install Required Libraries:
 Make sure you have the required Python libraries installed. You can install them using:
 
