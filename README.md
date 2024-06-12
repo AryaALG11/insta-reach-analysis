@@ -6,14 +6,6 @@ Overview Section: Summarizes total reach, engagement rate, and percentage change
 Reach Over Time: Line chart showing the reach over a week.
 Top Performing Posts: Bar chart displaying likes on the top 5 posts.
 Audience Demographics: Pie chart illustrating the distribution of audience by age group.
-##  Usage
-Clone the Repository:
-
-##  bash
-Copy code
-git clone https://github.com/AryaALG11/instagram-reach-analysis.git
-Install Required Libraries:
-Make sure you have the required Python libraries installed. You can install them using:
 
 
 ##  License
